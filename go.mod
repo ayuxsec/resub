@@ -1,3 +1,3 @@
-module github.com/ayushkr12/resub
+module github.com/ayuxsec/resub
 
 go 1.23.2
