@@ -9,7 +9,7 @@ Using go:
 go install github.com/ayuxsec/resub@latest
 ```
 
-or [download a release for your platform](https://github.com/ayusheek/resub/releases/).
+or [download a release for your platform](https://github.com/ayuxsec/resub/releases/).
 
 ## Usage:
 
